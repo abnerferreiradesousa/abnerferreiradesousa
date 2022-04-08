@@ -18,7 +18,7 @@ style="diplay: inline_block"
 
 ### STATUS
 
-https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark)
 
 ## 
 
