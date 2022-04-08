@@ -14,6 +14,14 @@ style="diplay: inline_block"
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 </div>
 
+##
+
+### STATUS
+
+https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark
+
+## 
+
 ### REDES SOCIAIS
 
 <div>
