@@ -1,12 +1,12 @@
 ## OLÁ PESSOAL!
 
-### SOBRE MIM
+#### SOBRE MIM
 
 -----
 
 ##
 
-### HABILIDADES
+#### HABILIDADES
 
 <div
 style="diplay: inline_block"
@@ -16,13 +16,13 @@ style="diplay: inline_block"
 
 ##
 
-### STATUS
+#### STATUS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark)
 
 ## 
 
-### REDES SOCIAIS
+#### REDES SOCIAIS
 
 <div>
   <a href="" target="_blank">
