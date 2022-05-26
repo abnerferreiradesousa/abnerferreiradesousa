@@ -35,13 +35,13 @@ style="diplay: inline_block"
 
 ##
 
-#### STATUS
+#### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark)
 
 ## 
 
-#### REDES SOCIAIS
+#### Redes Sociais
 
 <div>
   <a href="" target="_blank">
