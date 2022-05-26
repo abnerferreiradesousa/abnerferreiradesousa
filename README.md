@@ -23,7 +23,7 @@ style="diplay: inline_block"
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" height="50" width="60" src="file:///home/ubuntu/Downloads/postman-icon-svgrepo-com.svg">
+  <img align="center" height="50" width="60" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   
   
   
