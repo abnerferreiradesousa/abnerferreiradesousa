@@ -1,8 +1,8 @@
-## Olá!
+## Olá, como vai você?!
 
 #### Sobre mim
 
------
+  Me chamo Abner e tenho 21 anos,atualmente minha maior paixão profissional é a programação. As coisas que mais gosto são ouvir música, histórias e ir ao cinema. Sou estudante de desenvolvimento web na Trybe curtindo bastante a experiência de sempre estar construindo aplicações web cada vez mais complexas.
 
 ##
 
