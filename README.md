@@ -9,7 +9,9 @@ Me chamo Abner e tenho 21 anos, atualmente minha maior paixão profissional é a
 
 ##
 
-Estou trablhando em:
+#### Estou trablhando em:
+
+* Um plataforma de gestão de clientes de um petshop.
 
 #### Habilidades
 
