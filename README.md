@@ -9,9 +9,15 @@ Me chamo Abner e tenho 21 anos, atualmente minha maior paixão profissional é a
 
 ##
 
-#### Estou trablhando em:
+#### Estou trabalhando em:
 
-* Um plataforma de gestão de clientes de um petshop.
+* Em plataforma de gestão de clientes de um petshop.
+
+#### Estou aprendendo:
+
+* Golang(Como construir APIs com GO).
+* Como construir APIs escaláveis usando classe(JavaScript, TypeScript).
+
 
 #### Habilidades
 
