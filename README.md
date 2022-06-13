@@ -38,7 +38,7 @@ style="diplay: inline_block"
 #### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerferreiradesousa&layout=compact)](https://github.com/abnerferreiradesousa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerferreiradesousa&layout=compact&show_icons=true&theme=dark)](https://github.com/abnerferreiradesousa)
 
 ## 
 
