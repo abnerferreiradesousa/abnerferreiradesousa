@@ -2,7 +2,7 @@
 
 #### Sobre mim
 
-<p style="text-align: center">
+<p align="center">
 Me chamo Abner e tenho 21 anos, atualmente minha maior paixão profissional é a programação. As coisas que mais gosto são ouvir música, histórias e ir ao cinema. Sou estudante de desenvolvimento web na Trybe curtindo bastante a experiência de sempre estar construindo aplicações web cada vez mais complexas.
 </p>
 
@@ -15,7 +15,7 @@ Me chamo Abner e tenho 21 anos, atualmente minha maior paixão profissional é a
 
 #### Estou aprendendo:
 
-* Golang(Como construir APIs com GO).
+* Golang.
 * Como construir APIs escaláveis usando classe(JavaScript, TypeScript).
 
 
