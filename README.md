@@ -1,4 +1,4 @@
-## Olá, como vai você?!
+## Olá, como vai você?
 
 #### Sobre mim
 
