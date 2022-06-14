@@ -1,50 +1,64 @@
-## Olá, como vai você?
+<h3 align="center">
+Olá tudo bem, Eu sou <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Abner</a> 👋
+</h3>
 
-#### Sobre mim
+<h2 align="center">
+Eu sou Desenvolvedor Web Front-end 🎨!
+</h2> 
 
-<p align="center">
 Me chamo Abner e tenho 21 anos, atualmente minha maior paixão profissional é a programação. As coisas que mais gosto são ouvir música, histórias e ir ao cinema. Sou estudante de desenvolvimento web na Trybe curtindo bastante a experiência de sempre estar construindo aplicações web cada vez mais complexas.
-</p>
+
+### 🤝 Conecte-se comigo:
+
+<a href="https://www.linkedin.com/in/abner-sousa/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="30px"/></a>
+<a href="https://www.instagram.com/abnerferreira84/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="30px"/></a>
+<a href="https://wa.me/5585981696043"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536445.png?token=exp=1655224370~hmac=ea1b593fe6aa649d338c11f7e794dab5" alt="Yu Shi | Medium" width="30px"/></a>
+</br>
+- 💬 Se você tem alguma pergunta/feedback, por favor não deixe de entrar em contato comigo!
+
+## 🔭 Estou trabalhando atualmente
+
+- Em velhos projetos
+- Petshop Web Application
+- Minha CSS skill
+
+## 🌱 Estou aprendendo atualmente
+
+- 📱 Golang
+- APIs escaláveis usando Node.js, Express e TypeScript
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-sequelize-informational?style=flat&logo=sequelize&logoColor=blue)
+![](https://img.shields.io/badge/Code-Node.js-43853D?style=flat&logo=node.js&logoColor=green)
+![](https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Code-mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Code-JWT-black?style=flat&logo=JSON%20web%20tokens)
 
 
-##
+</br>
 
-#### Estou trabalhando em:
-
-* Em plataforma de gestão de clientes de um petshop.
-
-#### Estou aprendendo:
-
-* Golang.
-* Como construir APIs escaláveis usando classe(JavaScript, TypeScript).
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 
-#### Habilidades
+</br>
 
-<div
-style="diplay: inline_block"
->
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-plain.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" height="50" width="50" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-  <img align="center" height="70" width="70" alt="Postman" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg">
-  
-  
-  
-  
-</div>
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
+</br>
 
+![](https://img.shields.io/badge/Tests-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
+![](https://img.shields.io/badge/Tests-jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/Tests-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
 
 ##
 
@@ -54,13 +68,3 @@ style="diplay: inline_block"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark)
 
-
-## 
-
-#### Redes Sociais
-
-<div>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
