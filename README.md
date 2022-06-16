@@ -11,7 +11,6 @@ Me chamo Abner e tenho 21 anos, atualmente minha maior paixão profissional é a
 ### 🤝 Conecte-se comigo:
 
 <a href="https://www.linkedin.com/in/abner-sousa/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="30px"/></a>
-<a href="https://www.instagram.com/abnerferreira84/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="30px"/></a>
 <a href="https://wa.me/5585981696043"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536445.png?token=exp=1655224370~hmac=ea1b593fe6aa649d338c11f7e794dab5" alt="Yu Shi | Medium" width="30px"/></a>
 </br>
 - 💬 Se você tem alguma pergunta/feedback, por favor não deixe de entrar em contato comigo!
