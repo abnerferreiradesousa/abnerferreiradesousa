@@ -25,6 +25,7 @@ Me chamo Abner e tenho 21 anos, atualmente minha maior paixão profissional é a
 
 - 📱 Golang
 - APIs escaláveis usando Node.js, Express e TypeScript
+- Programação Orientada a Objetos(POO)
 
 ## 💼 Technical Skills
 
