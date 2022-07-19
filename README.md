@@ -59,7 +59,11 @@ Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente,
 
 #### Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerferreiradesousa&layout=compact&show_icons=true&theme=dark)](https://github.com/abnerferreiradesousa)
+<div style={display: "inline"}>
+  <div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerferreiradesousa&layout=compact&show_icons=true&theme=dark)](https://github.com/abnerferreiradesousa)</div>
+  <div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark)</div>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark)
+
+
 
