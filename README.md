@@ -21,7 +21,6 @@ Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente,
 - MongoDB(NoSQL)
 - APIs escaláveis usando Node.js, Express e TypeScript
 
-
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
@@ -34,12 +33,8 @@ Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente,
 ![](https://img.shields.io/badge/Code-mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Code-JWT-black?style=flat&logo=JSON%20web%20tokens)
 
-
 </br>
-
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-
 </br>
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
@@ -59,7 +54,3 @@ Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente,
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerferreiradesousa&layout=compact&show_icons=true&theme=dark)](https://github.com/abnerferreiradesousa)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark)
-
-
-
-
