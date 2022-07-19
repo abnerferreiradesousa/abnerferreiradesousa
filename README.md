@@ -6,7 +6,7 @@ Olá tudo bem, Eu sou <a href="https://www.yushi.dev/" target="_blank" rel="nore
 Eu sou Desenvolvedor Full-Stack 🎨!
 </h2> 
 
-Me chamo Abner e tenho 21 anos, atualmente minha maior paixão profissional é a programação. As coisas que mais gosto são ouvir música, histórias e ir ao cinema. Sou estudante de desenvolvimento web na Trybe curtindo bastante a experiência de sempre estar construindo aplicações web cada vez mais complexas.
+Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente, estou finalizando o curso de desenvolvimento web na Trybe e curtindo bastante a experiência de sempre estar construindo aplicações web cada vez mais complexas.
 
 ### 🤝 Conecte-se comigo:
 
