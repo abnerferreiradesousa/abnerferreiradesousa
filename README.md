@@ -10,7 +10,7 @@ Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente,
 
 ### 🤝 Conecte-se comigo:
 
-<a href="https://wa.me/5585981696043"><img align="left" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536445.png?token=exp=1655224370~hmac=ea1b593fe6aa649d338c11f7e794dab5" alt="Yu Shi | Medium" width="30px"/></a>
+<a href="https://wa.me/5585981696043">Whatsapp</a>
 </br>
 - 💬 Se você tem alguma pergunta/feedback, por favor não deixe de entrar em contato comigo!
 
