@@ -10,7 +10,7 @@ Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente,
 
 ### 🤝 Conecte-se comigo:
 
-<a href="https://wa.me/5585981696043">Whatsapp</a>
+<a href="https://wa.me/5585981696043">WhatsApp</a>
 </br>
 - 💬 Se você tem alguma pergunta/feedback, por favor não deixe de entrar em contato comigo!
 
