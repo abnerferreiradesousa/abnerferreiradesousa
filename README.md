@@ -8,6 +8,12 @@ Eu sou Desenvolvedor Full-Stack 🎨!
 
 Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente, estou finalizando o curso de desenvolvimento web na Trybe e curtindo bastante a experiência de sempre estar construindo aplicações web cada vez mais complexas.
 
+### 🤝 Conecte-se comigo:
+
+<a href="https://wa.me/5585981696043">WhatsApp</a>
+</br>
+- 💬 Se você tem alguma pergunta/feedback, por favor não deixe de entrar em contato comigo!
+
 ## 🌱 Estou aprendendo atualmente
 
 - 📱 Golang
