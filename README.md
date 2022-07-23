@@ -46,8 +46,6 @@ Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente,
 ![](https://img.shields.io/badge/Tests-jest-%23C21325?style=flat&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Tests-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
 
-##
-
 ## Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abnerferreiradesousa&layout=compact&show_icons=true&theme=dark&langs_count=6)](https://github.com/abnerferreiradesousa)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark)
