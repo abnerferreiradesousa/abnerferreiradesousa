@@ -8,10 +8,6 @@ Eu sou Desenvolvedor Full-Stack 🎨!
 
 Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente, estou finalizando o curso de desenvolvimento web na Trybe e curtindo bastante a experiência de sempre estar construindo aplicações web cada vez mais complexas.
 
-### 🤝 Conecte-se comigo:
-
-- 💬 Se você tem alguma pergunta/feedback, por favor não deixe de entrar em contato comigo!
-
 ## 🌱 Estou aprendendo atualmente
 
 - 📱 Golang
@@ -50,3 +46,8 @@ Tenho 21 anos e minha maior paixão profissional é a programação. Atualmente,
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerferreiradesousa&layout=compact&show_icons=true&theme=dark&langs_count=6">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark">
 </div>
+
+### 🤝 Conecte-se comigo:
+
+- 💬 Se você tem alguma pergunta/feedback, por favor não deixe de entrar em contato comigo!
+
