@@ -28,9 +28,11 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 ![](https://img.shields.io/badge/Code-JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![](https://img.shields.io/badge/Code-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-![](https://img.shields.io/badge/Tests-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
-![](https://img.shields.io/badge/Tests-jest-%23C21325?style=flat&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/Tests-Mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
+![](https://img.shields.io/badge/Tests-Chai.js-323330?style=flat&logo=chai&logoColor=red)
+![](https://img.shields.io/badge/Tests-Jest-%23C21325?style=flat&logo=jest&logoColor=white)
 ![](https://img.shields.io/badge/Tests-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
+![](https://img.shields.io/badge/Tests-Sinon.js-323330?style=flat&logo=sinon)
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
@@ -38,6 +40,7 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 ![](https://img.shields.io/badge/Tools-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
