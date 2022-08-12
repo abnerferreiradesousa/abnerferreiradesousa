@@ -26,6 +26,7 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 ![](https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Code-mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Code-JWT-black?style=flat&logo=JSON%20web%20tokens)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ![](https://img.shields.io/badge/Tests-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
 ![](https://img.shields.io/badge/Tests-jest-%23C21325?style=flat&logo=jest&logoColor=white)
