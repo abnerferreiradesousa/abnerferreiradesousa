@@ -55,4 +55,3 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 ### 🤝 Conecte-se comigo:
 
 - 💬 Se você tem alguma pergunta/feedback, por favor não deixe de entrar em contato comigo!
-
