@@ -10,9 +10,8 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 
 ## 🌱 Estou aprendendo atualmente
 
-- C#
-- MongoDB(NoSQL) e Mongoose
-- APIs escaláveis usando Mongoose, Node.js, Express e TypeScript
+- C# (ASP.NET)
+- Python e Pytest Library
 - Golang
 
 ## 💼 Technical Skills
