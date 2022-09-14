@@ -10,12 +10,13 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 
 ## 🌱 Estou aprendendo atualmente
 
-- C# (ASP.NET)
+- C# (ASP.NET, Construindo APIs) Aceleração C# na Trybe
 - Python e Pytest Library
 - Golang
 
 ## 💼 Technical Skills
 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
