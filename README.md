@@ -16,7 +16,7 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/Code-C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
