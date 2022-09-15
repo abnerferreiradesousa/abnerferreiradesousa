@@ -11,8 +11,8 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 ## 🌱 Estou aprendendo atualmente
 
 - C# (ASP.NET, Construindo APIs) Aceleração C# na Trybe
-- Python e Pytest Library
-- Golang
+- Python e Pytest Library (Trybe)
+- Golang (Youtube, artigos, ...)
 
 ## 💼 Technical Skills
 
@@ -45,7 +45,7 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 
 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Code-tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Code-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ## 📜 Status
 
