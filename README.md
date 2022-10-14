@@ -11,7 +11,7 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 ## 🌱 Estou aprendendo atualmente
 
 - C# (ASP.NET, Construindo APIs com Banco de Dados) Aceleração C# na Trybe
-- Computer Science - PythonEstrutura de Dados I: Arrays, Listas, Filas e Pilhas curso na Trybe
+- Computer Science - Python: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas curso na Trybe
 - Golang (Youtube, artigos, ...)
 
 ## 💼 Technical Skills
