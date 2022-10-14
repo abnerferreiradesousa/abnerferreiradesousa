@@ -1,5 +1,5 @@
 <h3 align="center">
-Olá tudo bem, Eu sou <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Abner</a> 👋
+Olá tudo bem, Eu sou <a href="https://www.linkedin.com/in/abner-sousa/" target="_blank" rel="noreferrer">Abner</a> 👋
 </h3>
 
 <h2 align="center">
