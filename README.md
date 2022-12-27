@@ -51,7 +51,7 @@ Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente,
 
 <div align="center">
   <img height="220em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerferreiradesousa&layout=compact&show_icons=true&theme=dark&langs_count=10">
-  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=abnerferreiradesousa&show_icons=true&theme=dark">
   
 </div>
 
