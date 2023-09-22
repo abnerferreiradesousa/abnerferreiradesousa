@@ -10,7 +10,7 @@ Tenho 23 anos e minha maior paixão profissional é a programação. Atualmente,
 
 ## 🌱 Estou aprendendo atualmente
 
-- JAVA (Spring Boot, Spring Data JPA, JUnit, TestContainers) Aceleração JAVA na Trybe
+- Java (Spring Boot, Spring Data JPA, JUnit, TestContainers) Aceleração Java na Trybe
 - Golang (Youtube, artigos, ...)
 
 ## 💼 Technical Skills
