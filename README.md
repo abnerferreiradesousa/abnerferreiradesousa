@@ -6,12 +6,11 @@ Olá tudo bem, Eu sou <a href="https://www.linkedin.com/in/abner-sousa/" target=
 Eu sou Desenvolvedor Full-Stack 🎨!
 </h2> 
 
-Tenho 22 anos e minha maior paixão profissional é a programação. Atualmente, estou finalizando o curso de desenvolvimento web na Trybe e curtindo bastante a experiência de sempre estar construindo aplicações web cada vez mais complexas.
+Tenho 23 anos e minha maior paixão profissional é a programação. Atualmente, me formei no curso de Ciência da Computação e Desenvolvimento Web na Trybe e sigo brincando com as tecnologias e encontrando novas formas de fazer aplicações úteis, simples e eficientes.
 
 ## 🌱 Estou aprendendo atualmente
 
-- C# (ASP.NET, Construindo APIs com Banco de Dados) Aceleração C# na Trybe
-- Computer Science - Python: Estrutura de Dados I: Arrays, Listas, Filas e Pilhas curso na Trybe
+- JAVA (Spring Boot, Spring Data JPA, JUnit, TestContainers) Aceleração JAVA na Trybe
 - Golang (Youtube, artigos, ...)
 
 ## 💼 Technical Skills
